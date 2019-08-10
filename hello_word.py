@@ -7,4 +7,4 @@ created on 2019/8/5
 if __name__ == "__main__":
     print("hello world")
 import numpy as np
-np.pad()
+np.set_printoptions()
